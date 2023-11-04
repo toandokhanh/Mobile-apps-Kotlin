@@ -18,9 +18,21 @@ Details: https://github.com/toandokhanh/Mobile-apps-Kotlin/tree/main/CalculatorA
 Details: https://github.com/toandokhanh/Mobile-apps-Kotlin/tree/main/QuizApp
 
 **3. TodoList (SQLine - Room)**
-
+<table>
+    <tr>
+        <td><img src="https://github.com/toandokhanh/Mobile-apps-Kotlin/assets/98395447/893c1321-60b6-4faa-90e2-fdf732a71753" alt="Hình 1" width="180" height="330"></td>
+        <td><img src="https://github.com/toandokhanh/Mobile-apps-Kotlin/assets/98395447/84a15e90-15e6-4098-8c82-09bbb669155c" alt="Hình 2" width="180" height="330"></td>
+        <td><img src="https://github.com/toandokhanh/Mobile-apps-Kotlin/assets/98395447/4007731c-7d5a-45b9-bd31-160fda870160" alt="Hình 3" width="180" height="330"></td>
+    </tr>
+</table>
 Details: https://github.com/toandokhanh/Mobile-apps-Kotlin/tree/main/TodoList_demoDB
 
 **4. MyWish**
-
+<table>
+    <tr>
+        <td><img src="https://github.com/toandokhanh/Mobile-apps-Kotlin/assets/98395447/3bf2e1b3-a286-46aa-88fe-1142a6c73fb3" alt="Hình 1" width="180" height="330"></td>
+        <td><img src="https://github.com/toandokhanh/Mobile-apps-Kotlin/assets/98395447/672e2af1-c0ec-4f41-88d5-6b192c04d0bf" alt="Hình 2" width="180" height="330"></td>
+        <td><img src="https://github.com/toandokhanh/Mobile-apps-Kotlin/assets/98395447/8788dc2e-51a2-451a-9dd0-c4bf4889ccdf" alt="Hình 3" width="180" height="330"></td>
+    </tr>
+</table>
 Details: https://github.com/toandokhanh/Mobile-apps-Kotlin/tree/main/MyWish
