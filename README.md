@@ -17,7 +17,7 @@ Details: https://github.com/toandokhanh/Mobile-apps-Kotlin/tree/main/CalculatorA
 
 Details: https://github.com/toandokhanh/Mobile-apps-Kotlin/tree/main/QuizApp
 
-**3. TodoList (SQLine - Room)**
+**3. TodoList (SQLite - Room)**
 <table>
     <tr>
         <td><img src="https://github.com/toandokhanh/Mobile-apps-Kotlin/assets/98395447/893c1321-60b6-4faa-90e2-fdf732a71753" alt="Hình 1" width="180" height="330"></td>
