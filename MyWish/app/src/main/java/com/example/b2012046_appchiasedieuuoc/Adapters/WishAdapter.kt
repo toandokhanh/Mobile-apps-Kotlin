@@ -19,7 +19,6 @@ class WishAdapter(
     //truyen interface tu ben ngoai vao
     private val iClickItemWish: IClickItemWish,
 
-    //chỉ định đổi số kiểu
 ) : RecyclerView.Adapter <WishAdapter.WishViewHolder>(){
 
     class WishViewHolder(val binding: ItemWishBinding) : RecyclerView.ViewHolder(binding.root)
@@ -31,6 +30,7 @@ class WishAdapter(
     override fun getItemCount(): Int {
         return wishList.size
     }
+
     override fun onBindViewHolder(holder: WishViewHolder, position: Int) {
         //lay ra doi tuong wish o vi tri position va thiet lap len giao dien
         val wish: Wish = wishList[position]
